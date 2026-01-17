@@ -1,11 +1,15 @@
-## Interface: 110200
+## Interface: 110207
 ## Title: PhoenixCastBars
 ## Notes: Phoenix-styled cast bars for player/target/focus with Quartz-like features.
 ## Author: ph0enixuk
-## Version: 0.2.0
+## Version: 0.2.30
 ## SavedVariables: PhoenixCastBarsDB
 
+Libs/LibStub/LibStub.lua
+Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+Libs/LibSharedMedia-3.0/LibSharedMedia-3.0.lua
 UpdateCheck.lua
 Options.lua
 PhoenixCastBars.lua
 CastBar.lua
+
