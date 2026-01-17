@@ -1,6 +1,5 @@
 -- PhoenixCastBars - UpdateCheck (Retail 11.2.7)
--- Peer-based version discovery (DBM/Details style).
-
+-- Update check: peer-based version discovery
 local ADDON_NAME, PCB = ...
 PCB.UpdateCheck = PCB.UpdateCheck or {}
 local UC = PCB.UpdateCheck
