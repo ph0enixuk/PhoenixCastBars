@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Interface: 110207
 ## Title: PhoenixCastBars
 ## Notes: Phoenix-styled cast bars for player/target/focus with Quartz-like features.
@@ -13,3 +14,33 @@ Options.lua
 PhoenixCastBars.lua
 CastBar.lua
 
+=======
+## Interface: 110207, 120001
+## Title: PhoenixCastBars
+## Notes: Phoenix-styled cast bars for player/target/focus with Quartz-like features.
+## Author: ph0enixuk
+## Version: 0.3.4
+## IconTexture: Interface\Addons\PhoenixCastBars\Media\Phoenix_Feather
+## SavedVariables: PhoenixCastBarsDB
+
+## Libs
+Libs/LibStub/LibStub.lua
+Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+Libs/LibSharedMedia-3.0/LibSharedMedia-3.0.lua
+Libs/AceAddon-3.0/AceAddon-3.0.lua
+Libs/AceEvent-3.0/AceEvent-3.0.lua
+Libs/AceHook-3.0/AceHook-3.0.lua
+Libs/AceConsole-3.0/AceConsole-3.0.lua
+Libs/AceDB-3.0/AceDB-3.0.lua
+Libs/AceGUI-3.0/AceGUI-3.0.lua
+Libs/AceConfig-3.0/AceConfigRegistry-3.0/AceConfigRegistry-3.0.lua
+Libs/AceConfig-3.0/AceConfigCmd-3.0/AceConfigCmd-3.0.lua
+Libs/AceConfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.lua
+Libs/AceConfig-3.0/AceConfig-3.0.lua
+
+## Addon Files
+UpdateCheck.lua
+Options.lua
+PhoenixCastBars.lua
+CastBar.lua
+>>>>>>> 9671a60 (Release v0.3.4 / update files)

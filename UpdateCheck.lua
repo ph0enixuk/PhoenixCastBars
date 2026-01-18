@@ -6,7 +6,11 @@ local UC = PCB.UpdateCheck
 
 UC.PREFIX = "PHX_PCB"
 
+<<<<<<< HEAD
 local BROADCAST_MIN_INTERVAL = 300  -- 5 minutes
+=======
+local BROADCAST_MIN_INTERVAL = 300
+>>>>>>> 9671a60 (Release v0.3.4 / update files)
 local LOGIN_GRACE = 10
 
 UC._lastBroadcast = 0
@@ -110,4 +114,8 @@ function UC:Init()
             UC:Handle(p, msg, ch, sender)
         end
     end)
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 9671a60 (Release v0.3.4 / update files)

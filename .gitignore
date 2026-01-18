@@ -1,0 +1,18 @@
+# Ignore compiled Lua
+*.luac
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# Node / tooling
+node_modules/
