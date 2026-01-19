@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 PhoenixCastBars is a lightweight, modern cast bar addon for World of Warcraft Retail.
 
 Inspired by Quartz, it provides clean, configurable cast bars for player, target, and focus while maintaining a sleek Phoenix-style aesthetic and minimal performance impact.
@@ -28,7 +27,7 @@ PhoenixCastBars is a lightweight World of Warcraft addon that provides Phoenix-s
 1. Download or clone this repository.
 2. Place the `PhoenixCastBars` folder into your World of Warcraft AddOns directory (Retail):
 
-   `%LOCALAPPDATA%\World of Warcraft\_retail_\Interface\AddOns\PhoenixCastBars`
+   `World of Warcraft\_retail_\Interface\AddOns\PhoenixCastBars`
 
 3. In-game: run `/reload` then type `/pcb` to open the addon options.
 
